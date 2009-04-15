@@ -1,5 +1,5 @@
 The main class is ShoesCrawler which must be run in Shoes. After login the app will build a folder hierarchy for the given exercise, parse the given web page (see links.yaml) for code snippets and save them in one file per student. The whole program is a skeleton yet and doesn't do very much.
 
-TODO: Have &mode3 appended to the URL unless &mode3 is already there.
+TODO: Have &mode3 appended to the URL unless &mode3 is already there. --DONE??
       Remove Extended character that appears in 'blank' newlines removed.
-
+      Change username/password stored information as a hash...
